@@ -1,6 +1,7 @@
 # B.Sc.Thesis
-Degree Projects in Computer Science (Email attacks : Investigation about the vulnerability of the
-Swedish organizations against email threats)
+Degree Projects in Computer Science
+
+## Email attacks: Investigation about the vulnerability of the Swedish organizations against email threats
 
 ## Abstract
 Email is an essential form of communication for organizations. Nevertheless, with
